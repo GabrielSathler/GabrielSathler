@@ -1,4 +1,4 @@
-## 💜 Olá, meu nome é {seu nome}!
+##  Olá, meu nome é Gabriel Sathler!
 
 Sou desenvolvedor Full-Stack apaixonado por tencologia e me encontrei desenvolvendo aplicações que podem impactar as pessoas.
 
