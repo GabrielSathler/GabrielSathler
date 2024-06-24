@@ -26,4 +26,5 @@ um formulario com tratativas e mascaras personalizadas para cada campo, entre ou
 
 ## ⭐ GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
+![Gabriel Sathler GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSathler&show_icons=true&)
+
