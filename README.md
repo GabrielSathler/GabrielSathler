@@ -6,7 +6,7 @@ Sou desenvolvedor Full-Stack apaixonado por tencologia e me encontrei desenvolve
 com side bar latarel para navegação dinamica (react-router-dom), 
 dados carregador via API do banco de dados PostgreSQL, carrinho dinamico onde o usuario consegue adicionar,
 mais itens que ja estejam no caminho, remover algum item, ou deletar o item do carrinho, chamada de API Asaas, 
-implementar um sistema de pagamento cartão de credito na aplicação, implementação do react-hook-form para criar
+para implementar um sistema de pagamento cartão de credito na aplicação, implementação do react-hook-form para criar
 um formulario com tratativas e mascaras personalizadas para cada campo, entre outras funcionalidades!
 
 💬 Para entrar em contato mandar email para gabrielvdfs@gmail.com, ou me contate no Whatsapp (31) 97137-9793
