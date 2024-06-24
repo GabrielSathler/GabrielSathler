@@ -1,28 +1,30 @@
-### Olá eu sou o Gabriel Sathler 👋
+## 💜 Olá, meu nome é {seu nome}!
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrieldornelasf/)
+Faça uma breve aprensentação sobre você e a sua stack.
 
-![Gabriel Sathler GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielSathler&show_icons=true&theme=dracula)
+🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
 
-## Tecnologias do meu dia a dia 🖥️
+💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
 
-<div style="display": inline_block><br/>    
-    <img align="center" height="45px" alt="html5" src="https://img.icons8.com/?size=100&id=12239&format=png&color=000000"/>
-    <img align="center" height="45px" alt="html5" src="https://img.icons8.com/?size=100&id=11935&format=png&color=000000"/>    
-    <img align="center" height="45px" alt="html5" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000"/>
-    <img align="center" height="45px" alt="html5" src="https://img.icons8.com/?size=100&id=wpZmKzk11AzJ&format=png&color=000000"/>
-    <img align="center" height="45px" alt="html5" src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000"/>
-    <img align="center" height="45px" alt="html5" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000"/>
-    <img align="center" height="45px" alt="html5" src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000"/>
-    <img align="center" height="45px" alt="html5" src="https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000"/>
-    
-    
-</div>
+---
 
-#### • Apaixonado por programação.
-#### • aprimorando minhas tecnologias principais e secundarias.
-#### • Em busca de me tornar uma pessoa que muda vidas atraves da tecnologia. 🚀
-###### --------------------------------------------------------------------------------------
-### Contato:
-##### Email pra contato: gabrielvdfs@gmail.com
-##### Whatsapp: 31 97137-9793
+## 🚀 Minhas Skills
+
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="Angular"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/><code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+
+---
+
+## ⭐ GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
