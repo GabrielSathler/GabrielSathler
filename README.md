@@ -21,7 +21,7 @@
 
 #### • Apaixonado por programação.
 #### • aprimorando minhas tecnologias principais e secundarias.
-#### • Em busca de um estágio Front-End, Back-End e/ou Full-Stack 🚀
+#### • Em busca de me tornar uma pessoa que muda vidas atraves da tecnologia. 🚀
 ###### --------------------------------------------------------------------------------------
 ### Contato:
 ##### Email pra contato: gabrielvdfs@gmail.com
