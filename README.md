@@ -1,10 +1,14 @@
 ## 💜 Olá, meu nome é {seu nome}!
 
-Faça uma breve aprensentação sobre você e a sua stack.
+Sou desenvolvedor Full-Stack apaixonado por tencologia e me encontrei desenvolvendo aplicações que podem impactar as pessoas.
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
+🔭 Recentemente desenvolvi um food commerce com side bar latarel para navegação dinamica (react-router-dom), 
+dados carregador via API de um banco de dados PostgreSQL, carrinho dinamico onde o usuario consegue adicionar,
+mais itens que ja estejam no caminho, remover algum item, ou deletar o item do carrinho, chamada de API Asaas, 
+implementar um sistema de pagamento cartão de credito na aplicação, implementação do react-hook-form para criar
+um formulario com tratativas e mascaras personalizadas para cada campo, entre outras funcionalidades!
 
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+💬 Para entrar em contato mandar email para gabrielvdfs@gmail.com, ou me contate no Whatsapp (31) 97137-9793
 
 ---
 
