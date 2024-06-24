@@ -8,10 +8,10 @@
 
 <div style="display": inline_block><br/>    
     <img align="center" height="55px" alt="html5" src="https://img.icons8.com/?size=100&id=12239&format=png&color=000000"/>
-    <img align="center" alt="html5" src="https://img.icons8.com/?size=100&id=11935&format=png&color=000000"/>    
-    <img align="center" alt="html5" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000"/>
-    <img align="center" alt="html5" src="https://img.icons8.com/?size=100&id=wpZmKzk11AzJ&format=png&color=000000"/>
-    <img align="center" alt="html5" src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000"/>
+    <img align="center" height="55px" alt="html5" src="https://img.icons8.com/?size=100&id=11935&format=png&color=000000"/>    
+    <img align="center" height="55px" alt="html5" src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000"/>
+    <img align="center" height="55px" alt="html5" src="https://img.icons8.com/?size=100&id=wpZmKzk11AzJ&format=png&color=000000"/>
+    <img align="center" height="55px" alt="html5" src="https://img.icons8.com/?size=100&id=NfbyHexzVEDk&format=png&color=000000"/>
     
 </div>
 
