@@ -1,14 +1,9 @@
 ##  Olá, meu nome é Gabriel Sathler!
 
 Sou desenvolvedor Full-Stack apaixonado por tencologia e me encontrei desenvolvendo aplicações que podem impactar as pessoas.
-Atualmente estou no 4° periodo de Ciencias da Computação pela faculdade UniBH.
+Atualmente estou no 7° periodo de Ciencias da Computação pela faculdade UniBH.
 
-🔭 Recentemente desenvolvi um food commerce (react.js, node.js, typescript, express, postgreSQL, prisma ORM, Asaas) 
-com side bar latarel para navegação dinamica (react-router-dom), 
-dados carregador via API do banco de dados PostgreSQL, carrinho dinamico onde o usuario consegue adicionar,
-mais itens que ja estejam no caminho, remover algum item, ou deletar o item do carrinho, chamada de API Asaas, 
-para implementar um sistema de pagamento cartão de credito na aplicação, implementação do react-hook-form para criar
-um formulario com tratativas e mascaras personalizadas para cada campo, entre outras funcionalidades!
+🔭 Atualmente trabalhando na Webimob Corretora de Seguros.
 
 💬 Para entrar em contato mandar email para gabrielvdfs@gmail.com, ou me contate no Whatsapp (31) 97137-9793
 
